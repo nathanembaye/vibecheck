@@ -1,0 +1,84 @@
+{
+  "query": {
+    "emojis": {
+      ":headphones:": 0.0874,
+      ":heart:": 0.0569,
+      ":heart_eyes:": 0.1498,
+      ":notes:": 0.0928,
+      ":two_hearts:": 0.0841
+    },
+    "text": "I'm falling in love"
+  },
+  "songs": [
+    {
+      "artist_name": "Russ",
+      "genre": "Rap",
+      "popularity": 59,
+      "track_id": "0XVEnrHgsQSOtCY8s0QRql",
+      "track_name": "Keep My Wits"
+    },
+    {
+      "artist_name": "Twenty One Pilots",
+      "genre": "Rock",
+      "popularity": 66,
+      "track_id": "3FvV3j98xtcylQF1drDc9j",
+      "track_name": "Oh Ms Believer"
+    },
+    {
+      "artist_name": "NF",
+      "genre": "Rap",
+      "popularity": 67,
+      "track_id": "3XeB1bCs6NSaLKmTkVbx6R",
+      "track_name": "Got You On My Mind"
+    },
+    {
+      "artist_name": "The Beatles",
+      "genre": "Rock",
+      "popularity": 67,
+      "track_id": "2RnPATK99oGOZygnD2GTO6",
+      "track_name": "With A Little Help From My Friends - Remastered 2009"
+    },
+    {
+      "artist_name": "Meek Mill",
+      "genre": "Rap",
+      "popularity": 68,
+      "track_id": "1dQ84P0W0lOckT02lPEhhP",
+      "track_name": "Millidelphia (feat. Swizz Beatz)"
+    },
+    {
+      "artist_name": "Julia Michaels",
+      "genre": "R&B",
+      "popularity": 70,
+      "track_id": "1wkHhcUnVOMhLtA79dQaQx",
+      "track_name": "Into You"
+    },
+    {
+      "artist_name": "Daniel Caesar",
+      "genre": "R&B",
+      "popularity": 71,
+      "track_id": "7Cu2COdH93MnuireuKNiS3",
+      "track_name": "Streetcar"
+    },
+    {
+      "artist_name": "6LACK",
+      "genre": "Rap",
+      "popularity": 73,
+      "track_id": "1MQ8ydvrTnn2QJgXFATJvD",
+      "track_name": "Ex Calling"
+    },
+    {
+      "artist_name": "Lil Uzi Vert",
+      "genre": "Rap",
+      "popularity": 75,
+      "track_id": "4uhvMW7ly7tJil31YYscAN",
+      "track_name": "Erase Your Social"
+    },
+    {
+      "artist_name": "Ariana Grande",
+      "genre": "Pop",
+      "popularity": 92,
+      "track_id": "1TEL6MlSSVLSdhOSddidlJ",
+      "track_name": "needy"
+    }
+  ]
+}

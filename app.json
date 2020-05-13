@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "vibecheck",
+    "slug": "musicvibe",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/img/icon_app.png",
+    "splash": {
+      "image": "./assets/img/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFC300"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf"]
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.vibecheck.vibecheck",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.vibecheck.vibecheck",
+      "versionCode": 2
+    },
+    "scheme": "exp"
+  }
+}
